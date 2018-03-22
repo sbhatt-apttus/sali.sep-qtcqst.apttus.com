@@ -145,10 +145,65 @@
                 <Name>System Properties</Name>
                 <CreatedBy.Id>0051I000000RPyhQAG</CreatedBy.Id>
                 <CreatedBy.Name>Aashish Khandelwal</CreatedBy.Name>
+                <CreatedDate>2018-03-22T10:28:13.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0051I000000RPyhQAG</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Aashish Khandelwal</LastModifiedBy.Name>
+                <LastModifiedDate>2018-03-22T10:33:44.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionsColumnPosition__c>Right</Apttus_Config2__ActionsColumnPosition__c>
+                <Apttus_Config2__AdminUser__c>Shahid Ali</Apttus_Config2__AdminUser__c>
+                <Apttus_Config2__AutoFinalizeOnCartApproval__c>true</Apttus_Config2__AutoFinalizeOnCartApproval__c>
+                <Apttus_Config2__BypassSharing__c>true</Apttus_Config2__BypassSharing__c>
+                <Apttus_Config2__CascadeSharedAttributeUpdates__c>true</Apttus_Config2__CascadeSharedAttributeUpdates__c>
+                <Apttus_Config2__CleanupInvalidRulePrompt__c>true</Apttus_Config2__CleanupInvalidRulePrompt__c>
+                <Apttus_Config2__CurrencyFieldPrecision__c>5</Apttus_Config2__CurrencyFieldPrecision__c>
+                <Apttus_Config2__DefaultProductsPage__c>Apttus_Config2__SelectConfigProductsFilterView</Apttus_Config2__DefaultProductsPage__c>
+                <Apttus_Config2__DeferPricingUntilCart__c>true</Apttus_Config2__DeferPricingUntilCart__c>
+                <Apttus_Config2__EnableAggregatePricing__c>true</Apttus_Config2__EnableAggregatePricing__c>
+                <Apttus_Config2__EnableAutoSequencingForOptions__c>true</Apttus_Config2__EnableAutoSequencingForOptions__c>
+                <Apttus_Config2__EnableDefaultingForProducts__c>true</Apttus_Config2__EnableDefaultingForProducts__c>
+                <Apttus_Config2__EnableFieldExpression__c>true</Apttus_Config2__EnableFieldExpression__c>
+                <Apttus_Config2__EnableMatrixPricingForOptions__c>true</Apttus_Config2__EnableMatrixPricingForOptions__c>
+                <Apttus_Config2__FieldExpressionsExecutionMode__c>Client</Apttus_Config2__FieldExpressionsExecutionMode__c>
+                <Apttus_Config2__FixedButtonBar__c>true</Apttus_Config2__FixedButtonBar__c>
+                <Apttus_Config2__GroupByFields__c>Apttus_Config2__IsOptional__c</Apttus_Config2__GroupByFields__c>
+                <Apttus_Config2__HideResolveConfigLink__c>true</Apttus_Config2__HideResolveConfigLink__c>
+                <Apttus_Config2__HideSubtotalsInCart__c>true</Apttus_Config2__HideSubtotalsInCart__c>
+                <Apttus_Config2__InstanceUrl__c>https://na73.salesforce.com</Apttus_Config2__InstanceUrl__c>
+                <Apttus_Config2__LargeCartThreshold__c>400</Apttus_Config2__LargeCartThreshold__c>
+                <Apttus_Config2__MaxAdjustmentLines__c>1</Apttus_Config2__MaxAdjustmentLines__c>
+                <Apttus_Config2__MaxConstraintRulesRoundTrip__c>3</Apttus_Config2__MaxConstraintRulesRoundTrip__c>
+                <Apttus_Config2__MultiCurrencyManagement__c>Platform</Apttus_Config2__MultiCurrencyManagement__c>
+                <Apttus_Config2__OptionPricingChunkSize__c>50</Apttus_Config2__OptionPricingChunkSize__c>
+                <Apttus_Config2__OptionsPageDefault__c>Apttus_Config2__SelectConfigOptionsDetailView</Apttus_Config2__OptionsPageDefault__c>
+                <Apttus_Config2__PercentageFieldPrecision__c>2</Apttus_Config2__PercentageFieldPrecision__c>
+                <Apttus_Config2__PricingBatchSize__c>1</Apttus_Config2__PricingBatchSize__c>
+                <Apttus_Config2__PricingProfile__c>Advanced</Apttus_Config2__PricingProfile__c>
+                <Apttus_Config2__ProductAttributeDetailPage__c>Apttus_Config2__ProductAttributeDetail3</Apttus_Config2__ProductAttributeDetailPage__c>
+                <Apttus_Config2__ProductDisplayMaxLength__c>21</Apttus_Config2__ProductDisplayMaxLength__c>
+                <Apttus_Config2__QuantityFieldPrecision__c>2</Apttus_Config2__QuantityFieldPrecision__c>
+                <Apttus_Config2__ResolveConfigurationPageDefault__c>Apttus_Config2__ResolveConfig</Apttus_Config2__ResolveConfigurationPageDefault__c>
+                <Apttus_Config2__SearchAttributeValuePage__c>Cart</Apttus_Config2__SearchAttributeValuePage__c>
+                <Apttus_Config2__SearchCategoryDefault__c>AllProducts</Apttus_Config2__SearchCategoryDefault__c>
+                <Apttus_Config2__ShowInfoInHeader__c>true</Apttus_Config2__ShowInfoInHeader__c>
+                <Apttus_Config2__SkipReview__c>true</Apttus_Config2__SkipReview__c>
+                <Apttus_Config2__TabViewInConfigureBundle__c>true</Apttus_Config2__TabViewInConfigureBundle__c>
+                <Apttus_Config2__TotalingGroupType__c>Product</Apttus_Config2__TotalingGroupType__c>
+                <Apttus_Config2__ViewCartPage__c>Apttus_Config2__CartDetailView</Apttus_Config2__ViewCartPage__c>
+                <Apttus_Config2__ConstraintRuleExecutionMode__c>Client</Apttus_Config2__ConstraintRuleExecutionMode__c>
+                <Apttus_Config2__EnableOptionalItems__c>true</Apttus_Config2__EnableOptionalItems__c>
+                <Apttus_Config2__ProductOptionPriceOrder__c>Last</Apttus_Config2__ProductOptionPriceOrder__c>
+                <Apttus_Config2__CartTheme__c>Classic</Apttus_Config2__CartTheme__c>
+                <Apttus_Config2__MaxAllowedLinesForMassActions__c>100</Apttus_Config2__MaxAllowedLinesForMassActions__c>
+                <Apttus_Config2__EnableAdjustmentSpread__c>true</Apttus_Config2__EnableAdjustmentSpread__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigSystemProperties__c">
+                <Name>SystemTERProperties</Name>
+                <CreatedBy.Id>0051I000000RPyhQAG</CreatedBy.Id>
+                <CreatedBy.Name>Aashish Khandelwal</CreatedBy.Name>
                 <CreatedDate>2017-10-03T09:50:22.000+0000</CreatedDate>
                 <LastModifiedBy.Id>0051I000000RPyhQAG</LastModifiedBy.Id>
                 <LastModifiedBy.Name>Aashish Khandelwal</LastModifiedBy.Name>
-                <LastModifiedDate>2018-03-22T09:16:38.000+0000</LastModifiedDate>
+                <LastModifiedDate>2018-03-22T10:26:15.000+0000</LastModifiedDate>
                 <Apttus_Config2__AlertInclude__c>true</Apttus_Config2__AlertInclude__c>
                 <Apttus_Config2__AutoFinalizeOnCartApproval__c>true</Apttus_Config2__AutoFinalizeOnCartApproval__c>
                 <Apttus_Config2__AutoSyncOnCartApproval__c>true</Apttus_Config2__AutoSyncOnCartApproval__c>
@@ -6677,7 +6732,7 @@
                 <LastModifiedDate>2017-10-03T09:50:22.000+0000</LastModifiedDate>
                 <Apttus_Revenue2__DefaultScale__c>4</Apttus_Revenue2__DefaultScale__c>
                 <Apttus_Revenue2__IgnoreLeapYearForRevenueRecognition__c>true</Apttus_Revenue2__IgnoreLeapYearForRevenueRecognition__c>
-                <Apttus_Revenue2__InstanceUrl__c>https://na73.salesforce.com</Apttus_Revenue2__InstanceUrl__c>
+                <Apttus_Revenue2__InstanceUrl__c>https://na35.salesforce.com</Apttus_Revenue2__InstanceUrl__c>
                 <Apttus_Revenue2__MaxBatchIteratorSize__c>10000</Apttus_Revenue2__MaxBatchIteratorSize__c>
                 <Apttus_Revenue2__ProcessRevenueForClosedPeriods__c>true</Apttus_Revenue2__ProcessRevenueForClosedPeriods__c>
                 <Apttus_Revenue2__RevenueRecordTypes__c>APTS_Revenue</Apttus_Revenue2__RevenueRecordTypes__c>

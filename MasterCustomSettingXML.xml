@@ -142,13 +142,13 @@
                 <APTS_Ext_ID__c>a2w1I000000PRHFQA4</APTS_Ext_ID__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigSystemProperties__c">
-                <Name>System Properties</Name>
+                <Name>SystemGEProperties</Name>
                 <CreatedBy.Id>0051I000000RPyhQAG</CreatedBy.Id>
                 <CreatedBy.Name>Aashish Khandelwal</CreatedBy.Name>
                 <CreatedDate>2018-03-22T10:28:13.000+0000</CreatedDate>
                 <LastModifiedBy.Id>0051I000000RPyhQAG</LastModifiedBy.Id>
                 <LastModifiedBy.Name>Aashish Khandelwal</LastModifiedBy.Name>
-                <LastModifiedDate>2018-03-22T10:33:44.000+0000</LastModifiedDate>
+                <LastModifiedDate>2018-03-22T11:08:24.000+0000</LastModifiedDate>
                 <Apttus_Config2__ActionsColumnPosition__c>Right</Apttus_Config2__ActionsColumnPosition__c>
                 <Apttus_Config2__AdminUser__c>Shahid Ali</Apttus_Config2__AdminUser__c>
                 <Apttus_Config2__AutoFinalizeOnCartApproval__c>true</Apttus_Config2__AutoFinalizeOnCartApproval__c>
@@ -197,13 +197,13 @@
                 <Apttus_Config2__EnableAdjustmentSpread__c>true</Apttus_Config2__EnableAdjustmentSpread__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigSystemProperties__c">
-                <Name>SystemTERProperties</Name>
+                <Name>System Properties</Name>
                 <CreatedBy.Id>0051I000000RPyhQAG</CreatedBy.Id>
                 <CreatedBy.Name>Aashish Khandelwal</CreatedBy.Name>
                 <CreatedDate>2017-10-03T09:50:22.000+0000</CreatedDate>
                 <LastModifiedBy.Id>0051I000000RPyhQAG</LastModifiedBy.Id>
                 <LastModifiedBy.Name>Aashish Khandelwal</LastModifiedBy.Name>
-                <LastModifiedDate>2018-03-22T10:26:15.000+0000</LastModifiedDate>
+                <LastModifiedDate>2018-03-22T11:13:57.000+0000</LastModifiedDate>
                 <Apttus_Config2__AlertInclude__c>true</Apttus_Config2__AlertInclude__c>
                 <Apttus_Config2__AutoFinalizeOnCartApproval__c>true</Apttus_Config2__AutoFinalizeOnCartApproval__c>
                 <Apttus_Config2__AutoSyncOnCartApproval__c>true</Apttus_Config2__AutoSyncOnCartApproval__c>
@@ -245,7 +245,7 @@
                 <Apttus_Config2__EnableOptionalItems__c>true</Apttus_Config2__EnableOptionalItems__c>
                 <Apttus_Config2__ProductOptionPriceOrder__c>Last</Apttus_Config2__ProductOptionPriceOrder__c>
                 <Apttus_Config2__CartTheme__c>Classic</Apttus_Config2__CartTheme__c>
-                <Apttus_Config2__MaxAllowedLinesForMassActions__c>5</Apttus_Config2__MaxAllowedLinesForMassActions__c>
+                <Apttus_Config2__MaxAllowedLinesForMassActions__c>100</Apttus_Config2__MaxAllowedLinesForMassActions__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigFlow__c">
                 <Name>Default</Name>

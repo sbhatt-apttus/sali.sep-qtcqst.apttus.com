@@ -203,7 +203,7 @@
                 <CreatedDate>2017-10-03T09:50:22.000+0000</CreatedDate>
                 <LastModifiedBy.Id>0051I000000RPyhQAG</LastModifiedBy.Id>
                 <LastModifiedBy.Name>Aashish Khandelwal</LastModifiedBy.Name>
-                <LastModifiedDate>2018-03-23T12:56:28.000+0000</LastModifiedDate>
+                <LastModifiedDate>2018-03-27T12:22:13.000+0000</LastModifiedDate>
                 <Apttus_Config2__AlertInclude__c>true</Apttus_Config2__AlertInclude__c>
                 <Apttus_Config2__AutoFinalizeOnCartApproval__c>true</Apttus_Config2__AutoFinalizeOnCartApproval__c>
                 <Apttus_Config2__AutoSyncOnCartApproval__c>true</Apttus_Config2__AutoSyncOnCartApproval__c>
@@ -214,7 +214,6 @@
                 <Apttus_Config2__DeferPricingUntilCart__c>true</Apttus_Config2__DeferPricingUntilCart__c>
                 <Apttus_Config2__DeferValidationCheckInBundles__c>true</Apttus_Config2__DeferValidationCheckInBundles__c>
                 <Apttus_Config2__DisplayCartActionsAsDropdown__c>true</Apttus_Config2__DisplayCartActionsAsDropdown__c>
-                <Apttus_Config2__EnableAutoReprice__c>true</Apttus_Config2__EnableAutoReprice__c>
                 <Apttus_Config2__EnableFieldExpression__c>true</Apttus_Config2__EnableFieldExpression__c>
                 <Apttus_Config2__EnableLocation__c>true</Apttus_Config2__EnableLocation__c>
                 <Apttus_Config2__EnableMatrixPricingForOptions__c>true</Apttus_Config2__EnableMatrixPricingForOptions__c>
